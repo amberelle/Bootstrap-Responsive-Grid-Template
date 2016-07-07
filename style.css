@@ -1,0 +1,9 @@
+body{
+  font-family: "Marlett";
+}
+.img-responsive{
+  padding:1em;
+}
+.nav{
+  float:right;
+}
